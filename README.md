@@ -40,6 +40,12 @@ testOutput.js demonstrates/outputs results of the test inputs provided in the as
 index.js is the mian file , which outputs the last nine digits of ∑1≤n≤10000
 
 to run the program execute the following code in terminal like this 
+```javascript
 node index.js
+```
 On browser open localhost:3000 to see the result
-for test Input , execute command :- node testOutput.js, and open localhost:3000 on browser.
+for test Input , execute command :- 
+```javascript
+node testOutput.js
+```
+, and open localhost:3000 on browser.
