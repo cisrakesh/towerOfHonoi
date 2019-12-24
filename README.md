@@ -1,5 +1,5 @@
-# Problem Name
-Tower Of Honoi
+# Tower Of Honoi
+
 Only one disk can be moved at a time.
 A valid move consists of taking the top disk from one stack and placing it onto another stack (or an empty rod).
 No disk can be placed on top of a smaller disk.
